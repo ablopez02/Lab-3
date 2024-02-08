@@ -1,0 +1,13 @@
+import turtle
+sally=turtle.Turtle()
+sally.color("blue")
+sally.forward(100)
+sally.right(90)
+sally.color("purple")
+sally.forward(100)
+sally.right(90)
+sally.color("red")
+sally.forward(100)
+sally.right(90)
+sally.color("green")
+sally.forward(100)
